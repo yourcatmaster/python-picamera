@@ -16,9 +16,9 @@ class PicStreaming(object):
             return fp.read()
 
     def picscoket(self,a,q):
-        APP_ID = '15299074'
-        API_KEY = 'Vy8eGm2F558GK4lr5X3cK8KA'
-        SECRET_KEY = 'C8eXTAj1IEMB1fKyrchgVo4bDliGwLIt'
+        APP_ID = ·····
+        API_KEY = ····
+        SECRET_KEY = ·····
         client = AipBodyAnalysis(APP_ID, API_KEY, SECRET_KEY)
 
         while True:
